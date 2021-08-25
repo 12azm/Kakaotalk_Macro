@@ -1,0 +1,10 @@
+C:\Users\kim62\source\repos\kkk\kkk\bin\Debug\kk.exe.config
+C:\Users\kim62\source\repos\kkk\kkk\bin\Debug\kk.exe
+C:\Users\kim62\source\repos\kkk\kkk\bin\Debug\kk.pdb
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kkk.csproj.AssemblyReference.cache
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kkk.Form1.resources
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kkk.Properties.Resources.resources
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kkk.csproj.GenerateResource.cache
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kkk.csproj.CoreCompileInputs.cache
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kk.exe
+C:\Users\kim62\source\repos\kkk\kkk\obj\Debug\kk.pdb
